@@ -8,9 +8,9 @@ public class largest {
         int a=s.nextInt();
         int b=s.nextInt();
         if(a>b)
-            System.out.println(a+" is greater than "+b);
+            System.out.println("This "+a+" is Greater than "+b);
         else
-            System.out.println(b+" is greater than "+a);
+            System.out.println("This"+b+" is Greater than "+a);
             s.close();
     }    
 }
